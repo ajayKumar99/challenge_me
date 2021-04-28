@@ -1,0 +1,39 @@
+{
+  "props": [
+    {
+      "name": "Accent Color",
+      "type": "color",
+      "value": "#7F4331",
+      "category": "color",
+      "meta": {
+        "projectId": "bRACnz2Zo4tvbao2fEYcsc",
+        "id": "2r-Z9r3U0"
+      }
+    },
+    {
+      "name": "Primary Color",
+      "type": "color",
+      "value": "#FFD800",
+      "category": "color",
+      "meta": {
+        "projectId": "bRACnz2Zo4tvbao2fEYcsc",
+        "id": "nyTDkFTl3"
+      }
+    },
+    {
+      "name": "Secondary",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "bRACnz2Zo4tvbao2fEYcsc",
+        "id": "QZkdDReuy"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
